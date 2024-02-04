@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614764141890",
+    "project_id": "faishon-tales",
+    "storage_bucket": "faishon-tales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614764141890:android:8ccf351dbcb593523f3cdb",
+        "android_client_info": {
+          "package_name": "com.example.fashion_tales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALR-g3f0fETpQoCtOXA7MNjicltAZoDm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
